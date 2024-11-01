@@ -1,0 +1,168 @@
+# Copyright (C) 2021 SuitePlugins
+# This file is distributed under the GPLv2.
+msgid ""
+msgstr ""
+"Project-Id-Version: SuitePlugins - UM Story Lite 1.0.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/um-story-lite\n"
+"POT-Creation-Date: 2021-09-19 18:58:57+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/class-core.php:57
+msgid "Add New Story"
+msgstr ""
+
+#: includes/class-core.php:58
+msgid "New Story"
+msgstr ""
+
+#: includes/class-core.php:59
+msgid "Edit Story"
+msgstr ""
+
+#: includes/class-core.php:60
+msgid "View Story"
+msgstr ""
+
+#: includes/class-core.php:61
+msgid "All Stories"
+msgstr ""
+
+#: includes/class-core.php:62
+msgid "Search stories"
+msgstr ""
+
+#: includes/class-core.php:63
+msgid "Parent stories:"
+msgstr ""
+
+#: includes/class-core.php:64
+msgid "No stories found."
+msgstr ""
+
+#: includes/class-core.php:65
+msgid "No stories found in Trash."
+msgstr ""
+
+#: includes/class-core.php:70
+msgid "Post written by profile users."
+msgstr ""
+
+#: includes/class-template.php:74
+msgid "Name"
+msgstr ""
+
+#: includes/class-template.php:100
+msgid "Entry Date"
+msgstr ""
+
+#: includes/class-template.php:131
+msgid "Main Image"
+msgstr ""
+
+#: includes/class-template.php:170
+msgid "Journal"
+msgstr ""
+
+#: includes/class-template.php:172
+msgid "My Entries"
+msgstr ""
+
+#: includes/class-template.php:173
+msgid "Entries"
+msgstr ""
+
+#: includes/class-template.php:174
+msgid "New Entry"
+msgstr ""
+
+#: includes/class-template.php:260 includes/class-template.php:264
+msgid "Access denied to this entry"
+msgstr ""
+
+#: includes/helper-functions.php:85
+msgid "Delete"
+msgstr ""
+
+#: includes/helper-functions.php:100
+msgid "Edit"
+msgstr ""
+
+#: templates/story/form.php:16
+msgid "Submit"
+msgstr ""
+
+#: templates/story/form.php:19
+msgid "Cancel"
+msgstr ""
+
+#: templates/story/list.php:18 templates/story/story-entry.php:28
+msgid "load more stories"
+msgstr ""
+
+#: templates/story/list.php:27
+msgid "You have not created any stories."
+msgstr ""
+
+#: templates/story/list.php:27
+msgid "This user has not added any stories."
+msgstr ""
+
+#: um-story-lite.php:323
+msgid ""
+"UM Story Lite is missing requirements and has been <a "
+"href=\"%s\">deactivated</a>. Please make sure all requirements are "
+"available."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "SuitePlugins - UM Story Lite"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://suiteplugins.com/um-story"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Allows users to submit articles via the front end on Ultimate Member "
+"profile tabs."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SuitePlugins"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://suiteplugins.com/"
+msgstr ""
+
+#: includes/class-core.php:52
+msgctxt "post type general name"
+msgid "Stories"
+msgstr ""
+
+#: includes/class-core.php:53
+msgctxt "post type singular name"
+msgid "Story"
+msgstr ""
+
+#: includes/class-core.php:54
+msgctxt "admin menu"
+msgid "Stories"
+msgstr ""
+
+#: includes/class-core.php:55
+msgctxt "add new on admin bar"
+msgid "Story"
+msgstr ""
+
+#: includes/class-core.php:56
+msgctxt "story"
+msgid "Add New"
+msgstr ""

@@ -1,0 +1,74 @@
+/**
+ * UM Story Lite
+ * https://suiteplugins.com
+ *
+ * Copyright (c) 2018 SuitePlugins
+ * Licensed under the GPLv2+ license.
+ */
+
+.um-story-header {
+    margin-bottom: 10px;
+}
+.um-story-thumbnail {
+    /*width: 14%;*/
+    float: left;
+    margin-right: 10px;
+}
+.um-story-clear{
+	clear: both;
+}
+.um-story-entry .um-story-content {
+    float: left;
+    padding-left: 4px;
+    word-wrap: break-word;
+    width: 57%;
+}
+.um-story-day {
+    line-height: 12px;
+    font-size: 12px;
+    text-align: center;
+}
+
+.um-story-thumbnail img {
+    height: 80px;
+    width: 80px;
+}
+
+.um-story-entry {
+    margin-bottom: 12px;
+}
+.um-story-time {
+	text-align: center;
+	font-size: 70%;
+	font-weight: bold;
+}
+
+.um-story-date {
+    font-size: 28px;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+    line-height: 28px;
+    text-align: center;
+}
+.um-story-date-container {
+	width: 10%;
+	float: right;
+}
+.um-story-control{
+	margin-right:10px;
+}
+#umStoryForm .um-col-alt {
+    margin-top: 10px;
+}
+div.um-story-list {
+    margin-top: 20px;
+}
+.um-story-control {
+    margin-left: 10px;
+}
+.um-story-day {
+    line-height: 12px;
+    font-size: 12px;
+    text-align: center;
+}
